@@ -1,13 +1,13 @@
-package com.recuperacion.ciclo3;
+package com.ciclo3.recuperacion;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Ciclo3Application {
+public class RecuperacionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Ciclo3Application.class, args);
+		SpringApplication.run(RecuperacionApplication.class, args);
 	}
 
 }

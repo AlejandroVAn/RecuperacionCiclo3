@@ -1,10 +1,10 @@
-package com.recuperacion.ciclo3;
+package com.ciclo3.recuperacion;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ciclo3ApplicationTests {
+class RecuperacionApplicationTests {
 
 	@Test
 	void contextLoads() {
